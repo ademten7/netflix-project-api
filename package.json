@@ -1,0 +1,25 @@
+{
+    "name": "netflix-project-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ademten7/netflix-project-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ademten7/netflix-project-api/issues"
+    },
+    "homepage": "https://github.com/ademten7/netflix-project-api#readme",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "express": "^4.17.2"
+    }
+}
